@@ -61,28 +61,6 @@ src/
 
 ---
 
-## ▶️ Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-```
-
-### 2. Install dependencies
-
-```bash
-npm install
-```
-
-### 3. Run the project
-
-```bash
-npm start
-```
-
----
-
 ## 🔑 Demo Credentials
 
 ```
@@ -104,8 +82,4 @@ Password: rahul@2021
 
 ---
 
-## 🤝 Connect with Me
-
-* LinkedIn: (Add your profile link here)
-* GitHub: (Add your GitHub link here)
 
